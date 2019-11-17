@@ -1,0 +1,26 @@
+body{
+    background-color: dodgerblue;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+}
+
+.x{
+    display: inline-block;
+    width: 260px;
+    height: 300px;
+    margin: 35px;
+
+    
+}
+
+
